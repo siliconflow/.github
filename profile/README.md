@@ -1,7 +1,7 @@
 <div align="center">
   <a href="https://www.siliconflow.com" >
     <img
-      src="https://www.siliconflow.com/siliconFlow_en.svg"
+      src="https://github.com/siliconflow/sc-docs/blob/main/logo/siliconflow.png"
       alt="SiliconFlow"
       width="500"
     />
