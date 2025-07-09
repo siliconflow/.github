@@ -10,9 +10,8 @@
   <a href="https://x.com/SiliconFlowAI"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/SiliconFlow?style=social"></a>
   <a href="https://www.linkedin.com/company/siliconflow"><img alt="LinkedIn Company" src="https://img.shields.io/badge/Follow_SiliconFlow_on_LinkedIn-blue?style=flat">
 </a>
-</a>
-  <a href="https://discord.gg/3nAMSVJekY"><img alt="Discord Community" src="https://img.shields.io/badge/Join_Discord--white?logo=discord&style=social"></a>
-
+  <a href="https://discord.gg/3nAMSVJekY"><img alt="Discord Community" src="https://img.shields.io/badge/Join_Discord--white?logo=discord&style=social">
+  </a>
 </div>
 
 [SiliconFlow](https://www.siliconflow.com) is committed to building a scalable, standardized, and high-performance AI Infra platform. It offers [SiliconCloud](https://cloud.siliconflow.com) (Model as a Service), SiliconLLM (LLM inference engine), and OneDiff (high-performance image/video generation library). These solutions all help corporations and indie developers deploy AI models in an effortless and cost-efficient manner.
