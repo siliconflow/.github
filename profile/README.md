@@ -14,15 +14,13 @@
   </a>
 </div>
 
-[SiliconFlow](https://www.siliconflow.com) is committed to building a scalable, standardized, and high-performance AI Infra platform. It offers [SiliconCloud](https://cloud.siliconflow.com) (Model as a Service), SiliconLLM (LLM inference engine), and OneDiff (high-performance image/video generation library). These solutions all help corporations and indie developers deploy AI models in an effortless and cost-efficient manner.
+[SiliconFlow](https://www.siliconflow.com)  builds scalable, standardized, and high-performance AI infrastructure. Powered by a self-developed inference engine, SiliconFlow delivers efficient and cost-effective large-model inference services, integrating hundreds of SOTA open-source models across language, speech, vision, and multimodal domains.
 
 **Flagship open-source projects**
 
 + [OneDiff](https://github.com/siliconflow/onediff): An out-of-the-box acceleration library for diffusion models.
 + [BizyAir](https://github.com/siliconflow/BizyAir): ComfyUI nodes that can run in any environment without a local GPU.
 
-**Cloud Services**
-- Try the [chatbot](https://nextchat-sf.vercel.app/) powered by SiliconCloud.
 
 **Hiring**
 - We are always looking for passionate and talented individuals to join us on our journey. If you’re interested in collaborating and making an impact, welcome to be part of our community and together we can make great things!
